@@ -10,7 +10,7 @@ Cuando se llena, el modelo empieza a olvidar lo más viejo. Por eso, después de
 Esta limitación es la que motiva muchas otras técnicas:
 - [RAG](../12_RAG) — para traer solo lo relevante
 - [Memoria de agentes](../18_Memoria_de_Agentes) — para persistir entre sesiones
-- [Caching de prompts](../23_Costos_Latencia_y_Caching) — para no repagar el mismo contexto
+- [Caching de prompts](../24_Costos_Latencia_y_Caching) — para no repagar el mismo contexto
 
 ## Ideas para experimentar
 

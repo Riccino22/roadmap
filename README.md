@@ -40,10 +40,11 @@ La idea no es tener todo, sino tener un orden mental claro y un lugar para exper
 
 ### Realidad de producción
 - [21_Evals](./21_Evals) — Tests para sistemas no-determinísticos
-- [22_Guardrails_y_Seguridad](./22_Guardrails_y_Seguridad) — Prompt injection, privacidad
-- [23_Costos_Latencia_y_Caching](./23_Costos_Latencia_y_Caching) — Prompt caching, optimización
-- [24_Fine_Tuning](./24_Fine_Tuning) — Cuándo (y cuándo no) hacer fine-tuning
-- [25_Open_Source_vs_Cerrados](./25_Open_Source_vs_Cerrados) — Llama, Qwen, DeepSeek vs APIs
+- [22_Observabilidad](./22_Observabilidad) — Traces, costos, latencia, drift en producción
+- [23_Guardrails_y_Seguridad](./23_Guardrails_y_Seguridad) — Prompt injection, privacidad
+- [24_Costos_Latencia_y_Caching](./24_Costos_Latencia_y_Caching) — Prompt caching, optimización
+- [25_Fine_Tuning](./25_Fine_Tuning) — Cuándo (y cuándo no) hacer fine-tuning
+- [26_Open_Source_vs_Cerrados](./26_Open_Source_vs_Cerrados) — Llama, Qwen, DeepSeek vs APIs
 
 ## Recursos generales
 
